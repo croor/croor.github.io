@@ -1,2 +1,2 @@
-# croor.github.io
+# Personal website
 this is my personal webpage. More to come!
