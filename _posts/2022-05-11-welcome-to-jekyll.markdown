@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Croor Singh's website"
 date:   2022-05-11 21:02:39 +0200
 categories: jekyll update
 ---
